@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+
+  <data name="ChangeLanguage" xml:space="preserve"><value>Seleziona</value></data>
+  <data name="Language" xml:space="preserve"><value>Lingua</value></data>
+  <data name="LanguageEnglish" xml:space="preserve"><value>Inglese</value></data>
+  <data name="LanguageFrench" xml:space="preserve"><value>Francese</value></data>
+  <data name="LanguageSpanish" xml:space="preserve"><value>Spagnolo</value></data>
+  <data name="LanguageItalian" xml:space="preserve"><value>Italiano</value></data>
+</root>
