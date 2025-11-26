@@ -1,7 +1,7 @@
-# TD .NET - Débogage et Exploration (BoutiqueDiayma 2025)
-**Étudiant :** Zeynabou BA  
-**Date :** 20 novembre 2025  
-**Repo :** https://github.com/TonUsername/BoutiqueDiayma-TD-MonNom
+# README ! _TD .NET - Débogage et Exploration (BoutiqueDiayma 2025)_
+> **Étudiant :** Zeynabou BA  
+**Date :** 26 novembre 2025
+NB: Ne sachant pas comment mettre des images dans le readme(a cause du format Markdown) j'ai mis les capture dans le fichier GUIDE.docx sur mon DRIVE
 
 # Boutique Diayma
 ## Réponses aux Questions
@@ -18,6 +18,7 @@ Version : .NET 2.0. Vérifié dans tous les .csproj.
 
 ### 4. Installation SDK
 .NET 2.0 installé via site officiel.
+https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/runtime-2.0.9-windows-x64-installer?cid=getdotnetcore
 
 ### 5. Dépôt GitHub Personnel
 https://github.com/ZeynabouBaSchool/BoutiqueDiayma-TD-ZBa.git
